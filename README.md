@@ -88,8 +88,13 @@ Cмольникова Полина,<br>
 
 *Complete Edition Vol. 5 - Serenades and Divertimenti for Wind-010. Divertimento in C, KV 188-240b - Allegro.mp3*
 
-![](img/featuremap_allegro.png)
-![](img/featuremap2.png)
+`Input:`
+
+![](img/featuremaps_allegro.png)
+
+`Output:`
+
+![](img/featuremaps2.png)
 
 # Примеры классификаций
 
