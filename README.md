@@ -1,13 +1,8 @@
 # image-classification-lab
 
-0. Введение
-1. Сбор данных 
-2. Препроцессинг
-3. Сэмплирование
-4. Своя архитектура NN
-5. Известная архитектура NN
-6. Сравнение результатов 
-7. Примеры классификации 
+Cмольникова Полина,<br>
+Альперович Вадим, <br>
+17ПМИ
 
  ---
  
@@ -88,6 +83,13 @@
 
 ![](img/cm1.png)
 ![](img/cm2.png)
+
+Посмотрим же на выход с первого сверточного слоя нашей сети:
+
+*Complete Edition Vol. 5 - Serenades and Divertimenti for Wind-010. Divertimento in C, KV 188-240b - Allegro.mp3*
+
+![](img/featuremap_allegro.png)
+![](img/featuremap2.png)
 
 # Примеры классификаций
 
