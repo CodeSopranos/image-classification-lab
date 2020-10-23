@@ -16,7 +16,7 @@ Cмольникова Полина,<br>
 # Cбор данных
 
 - Для обучающей выборки было собрано (абсолютно легальным образом) 10 классических композиций  и 10 трэков в жанре Rap.
-- Вот пример собранных трэков: *Piano Sonata No. 11 in A major K331-K300i, Oxxxymiron - Переплетено, Bagatelle For Piano in A Minor 'Fur Elise', MORGENSHTERN - ICE*
+- Вот пример собранных трэков: *`Piano Sonata No. 11 in A major K331-K300i`, `Oxxxymiron - Переплетено`, `Bagatelle For Piano in A Minor 'Fur Elise'`, `MORGENSHTERN - ICE`*
 
 # Препроцессинг
 
